@@ -19,3 +19,10 @@ youtube上对应着的视频讲解 https://www.youtube.com/watch?v=dwWhm78j8YU
 https://academic.oup.com/g3journal/article/9/3/955/6026799
 
 表达量的count文件有90多兆这里没上传，论文的示例数据在附件中，代码论文中也提供了下载链接
+
+## 004
+链接 https://github.com/mortazavilab/5xFAD_WGCNA 这里有示例数据和代码
+对应的论文 https://www.nature.com/articles/s41597-021-01054-y
+
+## 005
+python里做wgcna分析的模块PyWGCNA,论文还没有发表，github主页是https://github.com/mortazavilab/PyWGCNA
