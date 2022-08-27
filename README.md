@@ -26,3 +26,10 @@ https://academic.oup.com/g3journal/article/9/3/955/6026799
 
 ## 005
 python里做wgcna分析的模块PyWGCNA,论文还没有发表，github主页是https://github.com/mortazavilab/PyWGCNA
+
+## 006
+
+论文 https://onlinelibrary.wiley.com/doi/10.1111/mec.16661
+Patterns of pan-genome occupancy and gene coexpression under water-deficit in Brachypodium distachyon
+
+github https://github.com/Bioflora/Brachypodium_co_expression
