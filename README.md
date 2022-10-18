@@ -37,3 +37,11 @@ github https://github.com/Bioflora/Brachypodium_co_expression
 ## 007
 
 https://sbc.shef.ac.uk/workshops/2019-03-04-rna-seq/04_wgcna_tutorial.nb.html
+
+## 008
+
+github链接 https://github.com/cxli233/SimpleTidy_GeneCoEx
+
+基因共表达网络，最开始用的不是WGCNA,然后将分析结果和WGCNA的结果做了比较
+
+数据和代码都有，WGCNA部分的作图代码都是用ggplot2做的
