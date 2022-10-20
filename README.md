@@ -45,3 +45,9 @@ github链接 https://github.com/cxli233/SimpleTidy_GeneCoEx
 基因共表达网络，最开始用的不是WGCNA,然后将分析结果和WGCNA的结果做了比较
 
 数据和代码都有，WGCNA部分的作图代码都是用ggplot2做的
+
+## 009
+
+https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/Tutorials/
+
+WGCNA 官方教程
