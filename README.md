@@ -8,6 +8,8 @@
 
 https://www.nature.com/articles/s41477-021-00897-y
 
+论文中提供的代码链接 https://github.com/PengYuMaize/Yu2021NaturePlants
+
 youtube上对应着的视频讲解 https://www.youtube.com/watch?v=dwWhm78j8YU
 
 论文中的数据有100多个样本，我这边把样本数减少到了19个，论文里可以找到最原始的数据和代码
