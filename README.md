@@ -53,3 +53,10 @@ github链接 https://github.com/cxli233/SimpleTidy_GeneCoEx
 https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/Tutorials/
 
 WGCNA 官方教程
+
+## 010
+
+https://bioconductor.org/packages/devel/bioc/vignettes/BioNERO/inst/doc/vignette_01_GCN_inference.html
+
+BioNERO 用到的是这个R包，我大概看了一下内容，初步判断是将WGCNA的函数给整合了，其中有一些图改用ggplot2来做了，这个例子很完整，抽时间重复一下。这个例子里提供了很多对表达矩阵进行过滤的方法，包括基于中位数 基于表达量变异程度等等
+
